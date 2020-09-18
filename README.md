@@ -26,7 +26,7 @@ FERRAMENTAS
 * [Material UI Table](https://material-table.com/#/) - bilioteca da Material-UI para construção de tabelas de dados Poderosas.
  
  
-## ✒️ Autores
+## ✒️ Autor
 
 Mizael Fernando Magumba 
 
