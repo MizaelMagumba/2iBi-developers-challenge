@@ -16,8 +16,10 @@ Para executar a aplicação na maquina local primeiro faça o download do reposi
        npm install @testing-library/user-event  
        npm install react  
        npm install react-scripts  
+       
 Para Visualizar a aplicação no navegador execute o comando
-      npm start
+
+       npm start
 
 Para consultar as dependências necessárias a serem instaladas verifique o ficheiro package.json    
      
