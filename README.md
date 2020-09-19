@@ -10,10 +10,16 @@ Para executar a aplicação na maquina local primeiro faça o download do reposi
        
        npm install @material-ui/core
        npm install axios 
-       npm install material-table 
-       
-Para consultar as dependências necessárias a serem instaladas verifique o ficheiro package.json
-    
+       npm install material-table  
+       npm install @testing-library/jest-dom 
+       npm install @testing-library/react 
+       npm install @testing-library/user-event  
+       npm install react  
+       npm install react-scripts  
+Para Visualizar a aplicação no navegador execute o comando
+      npm start
+
+Para consultar as dependências necessárias a serem instaladas verifique o ficheiro package.json    
      
   
 
