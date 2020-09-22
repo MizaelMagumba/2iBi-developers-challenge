@@ -40,6 +40,6 @@ Mizael Fernando Magumba
 
 ## 📄 Licença
 
-Este projeto está sob a licença aberta.
+Este projeto está sob a licença MIT.
 
  
